@@ -40,6 +40,8 @@ To install:
 
     pip install pyautogui
 
-### Made by @PndaBoi, Hope it helps! :)
+### Made by <a href="https://github.com/pndaboi">@PndaBoi</a>, Hope it helps! :)
 
-Not Sorry for the bad repo name :D
+
+
+I'm really bad at naming my repos :o
