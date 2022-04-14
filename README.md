@@ -40,7 +40,7 @@ To install:
 
     pip install pyautogui
 
-### Made by <a href="https://github.com/pndaboi">@PndaBoi</a>, Hope it helps! :)
+### Made by <a href="https://github.com/Cipher-GF">me</a>, Hope it helps! :)
 
 
 
